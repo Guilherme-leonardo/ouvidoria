@@ -1,0 +1,22 @@
+.form-group {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.checkbox {
+    margin-left: 50px;
+}
+
+.text-checkbox {
+    padding-left: 5px;
+}
+
+button {
+    margin-left: 91%;
+    margin-top: 10px;
+    
+}
+
+.form-group{
+    align-items: center;
+}
